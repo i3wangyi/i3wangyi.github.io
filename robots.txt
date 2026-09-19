@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://i3wangyi.github.io/sitemap.xml
